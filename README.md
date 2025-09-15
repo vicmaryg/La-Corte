@@ -1,6 +1,6 @@
-# La Corte - Landing Page de Peluquería
+# La Corte - Peluquería Profesional
 
-Una landing page moderna y responsive para peluquería profesional, diseñada con HTML, CSS y JavaScript.
+Una landing page moderna y responsive para peluquería profesional especializada en el cuidado y embellecimiento de mascotas. Diseñada con HTML, CSS y JavaScript.
 
 ## 🎨 Características
 
@@ -38,36 +38,56 @@ la-corte/
 - Menú hamburguesa para móviles
 
 ### Hero Section
-- Título principal atractivo
-- Descripción del negocio
-- Botón de llamada a la acción
+- Título: "Bienvenidos a La Corte"
+- Descripción: "Su estilo, nuestra pasión. Embellecemos a tu mascota con amor, profesionalismo y creatividad"
+- Botón de llamada a la acción: "Reservar Cita"
 
 ### Servicios
-- Cortes de cabello
-- Coloración
-- Peinados
-- Tratamientos
-- Precios incluidos
+- **Baño**: Para todos los perros (Desde $25)
+- **Corte**: Profesional con productos de alta calidad y técnicas avanzadas (Desde $45)
+- **Stripping**: Para perros de pelo duro (Desde $35)
+- **Tratamientos**: Tratamientos capilares para mantener su pelo saludable y brillante (Desde $30)
 
 ### Galería
-- Espacio para mostrar trabajos realizados
-- Placeholders para imágenes
+- **Corte Oriental**: Espacio para mostrar cortes orientales
+- **Stripping**: Ejemplos de trabajos de stripping
+- **Baño y Deslanado**: Servicios de baño y deslanado
+- **Tratamiento**: Tratamientos capilares realizados
 
 ### Contacto
-- Información de contacto (dirección, teléfono, horarios)
-- Formulario de contacto funcional
-- Validación de campos
+- **Dirección**: Av. Principal 123, Ciudad
+- **Teléfono**: +1 234 567 890
+- **Horarios**: Lun - Sáb: 10:00 - 19:00, Domingo: Cerrado
+- Formulario de contacto funcional con validación
 
 ### Footer
-- Información de la empresa
-- Enlaces a redes sociales
+- **Información**: "Tu peluquería de confianza desde 2010"
+- **Redes Sociales**: Instagram (@lacortecanis)
+- **Copyright**: © 2024 La Corte. Todos los derechos reservados
+
+## 🎨 Paleta de Colores Actual
+
+La página utiliza una paleta de colores verde y dorada:
+
+### Colores Principales
+- **Verde Oscuro**: `#0c520f` - Usado en gradientes y fondos
+- **Verde Claro**: `#55aa5a` - Complemento en gradientes
+- **Verde Muy Oscuro**: `#073b05` - Logo y elementos destacados
+- **Amarillo Dorado**: `#e7d16d` - Efectos hover y acentos
+- **Rosa**: `#e91e63` - Botones y elementos de acción
+
+### Gradientes
+- **Hero Section**: `linear-gradient(135deg, #0c520f, #55aa5a)`
+- **Galería**: `linear-gradient(135deg, #0c520f, #55aa5a)`
 
 ## 🎨 Personalización
 
 ### Cambiar Colores
 Los colores principales están definidos en `styles.css`:
 - Color principal: `#e91e63` (rosa)
-- Gradiente hero: `#667eea` a `#764ba2` (azul a púrpura)
+- Gradiente hero: `#0c520f` a `#55aa5a` (verde oscuro a verde claro)
+- Color logo: `#073b05` (verde muy oscuro)
+- Color hover: `#e7d16d` (amarillo dorado)
 
 ### Cambiar Fuentes
 La fuente principal es Poppins de Google Fonts. Puedes cambiarla en `styles.css`:
@@ -102,11 +122,13 @@ La página está optimizada para:
 
 ## 📞 Información de Contacto
 
-Actualiza la información de contacto en `index.html`:
-- Dirección
-- Teléfono
-- Horarios de atención
-- Enlaces a redes sociales
+La información de contacto actual en `index.html`:
+- **Dirección**: Av. Principal 123, Ciudad
+- **Teléfono**: +1 234 567 890
+- **Horarios**: Lun - Sáb: 10:00 - 19:00, Domingo: Cerrado
+- **Redes Sociales**: Instagram (@lacortecanis)
+
+Para personalizar, edita la sección de contacto en `index.html`.
 
 ## 🚀 Despliegue
 
@@ -126,4 +148,4 @@ Si encuentras algún error o quieres mejorar algo, no dudes en hacer los cambios
 
 ---
 
-**¡Disfruta tu nueva landing page de peluquería!** ✂️💇‍♀️ 
+**¡Disfruta tu nueva landing page de peluquería para mascotas!** ✂️🐕🐱 
